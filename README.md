@@ -1,7 +1,7 @@
 Hi, I'm Tailon Ramos, technology enthusiast!
-I like to program in Python, and develop 
+I'm a future web developer and I like develop 
 solutions in graphical application interfaces. 
-I like to help and be helped :)
+Technologies I develop: HTML, CSS, JS, Reactjs, SASS, MySQL, Python
 
 <!---
 RamosTailon/RamosTailon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
