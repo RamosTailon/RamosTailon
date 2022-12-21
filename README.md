@@ -1,7 +1,7 @@
 Hi, I'm Tailon Ramos, technology enthusiast!
 I'm a future web developer and I like develop 
 solutions in graphical application interfaces. 
-Technologies I develop: HTML, CSS, JS, Reactjs, SASS, Nodejs, 
+Technologies I develop: HTML, CSS, JS, Reactjs, SASS, Nodejs
 
 <!---
 RamosTailon/RamosTailon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
