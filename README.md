@@ -1,9 +1,7 @@
-Hi, I'm Tailon Ramos, technology enthusiast!
-I'm a future web developer and I like develop 
-solutions in graphical application interfaces. 
-Technologies I develop: HTML, CSS, JS, Reactjs, SASS, Nodejs
+# Tailon Ramos Sampaio
+Aficionado em tecnologia e áreas afins desta. Gosto de desenvolver interfaces, seja criando design ou modelando por código.
 
-<!---
-RamosTailon/RamosTailon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contruo muito mais que caixinhas visuais com cores elegantes; **contruo ideias promissoras qie criam experiências de uso de aplicações de negocios prósperos.**
+
+- <http://linkedin.com/in/tailon-ramos-25271022a>
+- <tailonramos11@gmail.com>
